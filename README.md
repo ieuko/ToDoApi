@@ -14,7 +14,7 @@ ToDoApiCtrl : Controller-based Apis, swaggerつかう
 
 DB　: メモリ
 
-Minimal Api チュートリアル
+Minimal Api チュートリアル  
 https://learn.microsoft.com/ja-jp/aspnet/core/tutorials/first-web-api?view=aspnetcore-7.0&tabs=visual-studio
-Controller-based Api チュートリアル
+Controller-based Api チュートリアル  
 https://learn.microsoft.com/ja-jp/aspnet/core/tutorials/min-web-api?view=aspnetcore-7.0&tabs=visual-studio
