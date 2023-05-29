@@ -2,7 +2,7 @@
 
 ASP.NET Core 7.0
 
-ToDoApi : Minimal Apis
+ToDoApi : Minimal Apis --
 ToDoApiCtrl : Controller-based Apis, swaggerつかう
 
 - API
